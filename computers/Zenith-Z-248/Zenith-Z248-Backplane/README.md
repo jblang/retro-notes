@@ -1,27 +1,26 @@
 # Z-248 Backplane
 
-Part number 85-3139-1
+The Z-248 uses a passive backplane (part no. 85-3139-1) containing only a power connector, battery holder, keyboard connector, and 10 expansion slots. Everything else is located on the expansion boards, including the CPU, RAM, and chipset.
 
-The Z-248 uses a passive backplane containing only a power connector, backup battery, keyboard connector, and expansion slots. Everything else, including the CPU, RAM, and chipset, is installed on an expansion board in one of the slots.
+## Bus Connectors
 
-## Extended ISA Slots
+The 10 expansion slots include 2 8-bit ISA, 4 16-bit ISA, and 4 proprietary extended ISA slots.
 
-The CPU, IO, and Memory boards have an extended ISA connector that is longer and has more connections than a standard 16-bit ISA connector.  This photo also shows the part number.
+The bus pinout is printed on the backplane. Pins Y/Z 21-31 are used by the proprieatry extended slots.
 
-![part no and long slot](partno-slot.jpeg)
+![Bus Pinout](bus-pinout.jpeg)
+
+The CPU, IO, and Memory boards have a proprietary extended ISA connector that is longer and has more connections than a standard 16-bit ISA connector.  This photo also shows the part number (85-3139-1).
+
+![Long Slot](long-slot.jpeg)
 
 ## Other Connectors
 
-The other connectors on the backplane include:
-- Proprietary power supply connector
-- Green status LEDs for each power rail (+/-5V and +/-12V)
-- Holder for 3.6V AA lithium battery
+In addition to the ISA slots, the backplane contains several other connectors:
+
 - AT keyboard connector
+- Proprietary power supply connector
+- Status LEDs for each power rail (+/-5V and +/-12V)
+- Holder for 3.6V AA lithium battery
 
-![battery/kb connector/power leds](battery-kb-leds.jpeg)
-
-## Bus Pinout
-
-The bus pinout is printed on the backplane. Even though the extended connector is not populated in this slot, the pinout for it is printed where it would have been soldered.
-
-![bus pinout](bus-pinout.jpeg)
+![Other Connectors](connectors.jpeg)

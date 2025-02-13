@@ -1,4 +1,4 @@
-# Zenith ZW-248-84 AT-compatible 8MHz 286
+# Zenith Z-248 AT-compatible 8MHz 286
 
 The Zenith ZW-248-84 is an AT-compatible 8MHz 286 system in the Z-200 series. It has a backplane-based design where the motherboard only contains slots and passive components, and the CPU and chipset are on plugin boards.
 
@@ -40,9 +40,9 @@ The Zenith ZW-248-84 is an AT-compatible 8MHz 286 system in the Z-200 series. It
 
 ## Personal Notes
 
-I bought this system in January 2025 from the [Bits Please](https://www.ebay.com/str/bitsplease) on eBay. I removed all the components from the backplane for initial testing and powered up it with a sacrificial IDE hard drive connected.  After the power supply stabilized, I checked all the voltages and confirmed that they were correct before putting the other parts back in. Other than the original floppy drive, everything worked. Originally it seemed a bit unstable and wouldn't boot sometimes, but after running for a while it has stabilized (most likely after the electrolytic caps fully reformed).  I swapped the EGA for a VGA card since I don't have an EGA monitor, and added the Sound Blaster 2.0 and XT-CF cards.  I replaced the broken 3.5" drive with a Teac model and added a Teac 5.25" drive.
+I bought this system in January 2025 from the [Bits Please](https://www.ebay.com/str/bitsplease) on eBay. For initial testing of the power supply, I removed all the components from the backplane and powered up it with a sacrificial IDE hard drive connected.  After the power supply stabilized, I checked all the voltages and confirmed that they were correct before putting the other parts back in. Other than the original floppy drive, everything worked. Originally it seemed a bit unstable and wouldn't boot sometimes, but after running for a while it has stabilized (most likely after the electrolytic caps fully reformed).  I swapped the EGA for a VGA card since I don't have an EGA monitor, and added the Sound Blaster 2.0 and XT-CF cards.  I replaced the broken 3.5" drive with a Teac model and added a Teac 5.25" drive.
 
-My dad ran his pharmacy on a similar system for many years. Originally he had the 286 model, but he upgraded it to a 386 with a kit sold by Zenith. He brought it home before using it at his store, and I have memories of playing Zork and King's Quest on it when I was around 7 or 8. Later in junior high, I had a 16MHz 386SX at home, which was the source of the actual VGA board and keyboard I am using with this system.  The 386SX also had same Teac floppy drives installed in this system and a Sound Blaster 1.5.  My current configuration is therefore a bit of a hybrid between these two systems.
+My dad ran his pharmacy on a similar system from the mid-80s to early 90s. Originally he had the 286 model, but he upgraded it to a 386 with a kit sold by Zenith. He brought it home before using it at his store, and I have memories of playing Zork and King's Quest on it when I was around 7 or 8. Later in junior high, I had a 16MHz 386SX at home, which was the source of the VGA board and keyboard I am using with this system.  The 386SX also had same TEAC floppy drive models that I installed in this system, and a Sound Blaster 1.5.  My current configuration is therefore a bit of a hybrid between these two systems.
 
 ## Additional Photos
 
