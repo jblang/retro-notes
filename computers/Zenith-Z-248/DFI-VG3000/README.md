@@ -4,7 +4,6 @@ The DFI VG-3000 is an ISA VGA board based on the Oak Technology OTI037C graphics
 
 ![front](front.jpeg)
 ![back](back.jpeg)
-![bios banner](banner.jpeg)
 
 ## Documentation
 - [MTL Jumper Manual](VG-3000.pdf)
@@ -14,3 +13,5 @@ The DFI VG-3000 is an ISA VGA board based on the Oak Technology OTI037C graphics
 ## Personal Notes
 
 This board was originally installed in a 16MHz 386SX system that I had at home in junior high, circa 1991. Before I left for college in 1997, I cobbled together a working system from spare parts including this board, then forgot about it for 20 years until I found it in my parents' storage and took it home. The board sat unused in my collection until 2025, when I installed it in my newly acquired Zenith Z-248 system. I find the colorful animated Oak Technology banner very nostalgic, since I watched it many times on one of my earliest computers.
+
+![bios banner](banner.jpeg)
