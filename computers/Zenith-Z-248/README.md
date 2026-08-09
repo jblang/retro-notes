@@ -22,16 +22,16 @@ Bought from the [Bits Please](https://www.ebay.com/str/bitsplease) store on eBay
 
 ## Removed Components
 
-- [Compex ANET/1 ARCNET adapter](../../parts/Compex-ANET1/README.md)
-- [Paradise AutoSwitch EGA card with PEGA1A chip](../../parts/Paradise-PEGA1A/README.md)
+- [Compex ANET/1 ARCNET adapter](../../parts/network/Compex-ANET1/README.md)
+- [Paradise AutoSwitch EGA card with PEGA1A chip](../../parts/video/Paradise-PEGA1A/README.md)
 
 ## Added Components
 
-- [DFI VG-3000 VGA card with OTI037C chip](DFI-VG3000/README.md)
-- [Sound Blaster 2.0 (CT1350B)](SoundBlaster-CT1350B/README.md)
-- [Teac FD-235HF 3.5" 1.44MB floppy drive](Teac-FD235HF/README.md)
-- [Teac FD-55GFR 5.25" 1.2MB floppy drive](Teac-FD55GFR/README.md)
-- [Lo-Tech XT-CF 8-bit IDE inteface](Lotech-XTCF/README.md)
+- [DFI VG-3000 VGA card with OTI037C chip](../../parts/video/DFI-VG3000/README.md)
+- [Sound Blaster 2.0 (CT1350B)](../../parts/sound/SoundBlaster-CT1350B/README.md)
+- [Teac FD-235HF 3.5" 1.44MB floppy drive](../../parts/storage/Teac-FD235HF/README.md)
+- [Teac FD-55GFR 5.25" 1.2MB floppy drive](../../parts/storage/Teac-FD55GFR/README.md)
+- [Lo-Tech XT-CF 8-bit IDE interface](../../parts/storage/Lotech-XTCF/README.md)
   - Rear slot CF adapter
   - 512MB CF Card
 

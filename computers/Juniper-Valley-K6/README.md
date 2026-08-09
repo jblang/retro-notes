@@ -18,19 +18,19 @@ At first glance, I assumed Juniper Valley Products was just another anonymous se
 ## Original Components
 
 - [Baby AT Desktop Case](Case/README.md)
-- [Enlight EN-8207801 200W Power Supply](Enlight-EN-8207801/README.md)
-- [FIC-VA-503+ REV 1.2A Motherboard](FIC-VA-503+/README.md)
-- [SMC EtherPower II 9432TX 10/100Base-T Network Card](SMC-9432TX/README.md)
-- [TEAC FD-235HF 3.5" 1.44MB Floppy Drive](Teac-FD-235HF-A291/README.md)
-- [Lite-On LTR-52327S 52x/32x/52x CD-RW Drive](LiteOn-LTR-52327S/README.md)
+- [Enlight EN-8207801 200W Power Supply](../../parts/power/Enlight-EN-8207801/README.md)
+- [FIC-VA-503+ REV 1.2A Motherboard](../../parts/motherboard/FIC-VA-503+/README.md)
+- [SMC EtherPower II 9432TX 10/100Base-T Network Card](../../parts/network/SMC-9432TX/README.md)
+- [TEAC FD-235HF 3.5" 1.44MB Floppy Drive](../../parts/storage/Teac-FD-235HF-A291/README.md)
+- [Lite-On LTR-52327S 52x/32x/52x CD-RW Drive](../../parts/storage/LiteOn-LTR-52327S/README.md)
 
 ## Added Components
 
-- [AMD K6-2+/570ACZ 570MHz Socket 7 CPU with 256KB L2 cache](AMD-K6-2+-570ACZ/README.md)
-- [Hyundai 128MB PC100 SDRAM](Hyundai-128MB-PC100-SDRAM/README.md)
-- [3dfx Voodoo3 3000 AGP 3D Video Card](3dfx-Voodoo3-3000/README.md)
-- [Sound Blaster 32 PnP (CT3600) Sound Card](SoundBlaster-32-CT3600/README.md)
-- [StarTech 3.5" Drive Bay IDE to CF Adapter](StarTech-35BAYCF2IDE/README.md)
+- [AMD K6-2+/570ACZ 570MHz Socket 7 CPU with 256KB L2 cache](../../parts/cpu/AMD-K6-2+-570ACZ/README.md)
+- [Hyundai 128MB PC100 SDRAM](../../parts/memory/Hyundai-128MB-PC100-SDRAM/README.md)
+- [3dfx Voodoo3 3000 AGP 3D Video Card](../../parts/video/3dfx-Voodoo3-3000/README.md)
+- [Sound Blaster 32 PnP (CT3600) Sound Card](../../parts/sound/SoundBlaster-32-CT3600/README.md)
+- [StarTech 3.5" Drive Bay IDE to CF Adapter](../../parts/storage/StarTech-35BAYCF2IDE/README.md)
 - [32GB SanDisk Extreme Card](https://shop.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-compactflash?sku=SDCFXSB-032G-G46)
 
 ## Removed Components

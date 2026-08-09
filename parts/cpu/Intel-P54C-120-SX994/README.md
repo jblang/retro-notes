@@ -8,10 +8,10 @@
 |-----------|----------|------------|----------|----------|---------|-----------------|--------|---------|
 | 120 MHz    | 60 MHz  | 2.0        | 8KB/8KB  | None     | 3.3V    | CPGA-296        | 7      | 600 nm  |
 
-## Personal Notes
-
-This CPU was made in Malaysia 25th week of 1995. I bought it in 1995 for the [Pentium system](../../../computers/486DX2-66/Case/README.md#the-original-pentium-era) I originally built in the case that now houses my [486DX2-66](../../../computers/486DX2-66/README.md) system.
-
 ## Further Information
 
 - [Datasheet](P54C-datasheet.pdf) (from [Ardent Tool of Capitalism](https://www.ardent-tool.com/CPU/Docs.html))
+
+## Personal Notes
+
+This CPU was made in Malaysia 25th week of 1995. I bought it in 1995 for the [Pentium system](../../../computers/Pentium-120/README.md#original-pentium-120) I originally built in the case that now houses my [Pentium-120](../../../computers/Pentium-120/README.md) system.
