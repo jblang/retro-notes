@@ -2,9 +2,18 @@
 
 ![front](front.jpeg)
 
-From the manual:
+## Specifications
 
->Based on the new highly-integrated VIA APOLLO MVP3 Chipset, the VA-503+ combines blistering Pentium processor performance with support for switching voltage regulator which allows the voltage from 2.0V to 3.2V, intelligent diagnostic, and power management features. The new Accelerated Graphics Port (AGP) interface provides a dedicated path for memory-intensive graphics applications-delivering faster system performance and arcade-quality 2x mode 3D graphics. The VA-503+ has a versatile Baby AT-size platform for leading-edge PC ’97 compliant systems.
+- Chipset: VIA VT82C598MVP (Apollo MVP3)
+- CPU socket: Socket 7 (PGA321); supports Intel Pentium and Pentium MMX, AMD K6 and K6-2, Cyrix 6x86L, and Cyrix MII processors
+- Front-side bus speeds: 66, 75, 83, 95, 100, 112, and 124 MHz
+- Form factor: Baby AT
+- Release year: 1998
+- Cache: 512KB or 1MB
+- Memory: up to 512MB of 72-pin FPM/EDO or SDRAM/168-pin EDO UDIMMs
+- Power connectors: AT (P8/P9) or ATX 1.x (20-pin)
+- Expansion slots: 3× 16-bit ISA, 3× PCI, and 1× 3.3V AGP
+- I/O: AT keyboard, floppy, 2× IDE, PS/2 mouse, parallel, 2× serial, and 2× USB 1.x
 
 ## Documentation
 

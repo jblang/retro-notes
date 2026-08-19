@@ -4,3 +4,4 @@ This is a repository of notes, photos, etc. from my retro electronics collection
 
 - [Computers](computers)
 - [Parts](parts/README.md)
+- [Graveyard](graveyard/README.md)
